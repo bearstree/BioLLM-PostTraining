@@ -1,0 +1,15 @@
+# Install a compatible PyTorch CUDA build for your system before GPU runs.
+notebook>=7,<8
+ipykernel>=6,<7
+numpy>=1.26,<3
+pandas>=2.2,<3
+matplotlib>=3.8,<4
+scikit-learn>=1.4,<2
+torch>=2.4
+transformers>=4.51
+datasets>=3
+trl>=0.20
+peft>=0.16
+accelerate>=1
+bitsandbytes>=0.45
+safetensors>=0.5
