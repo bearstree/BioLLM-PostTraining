@@ -1,0 +1,17 @@
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+.env
+*.pyc
+exploration/runs/**
+!exploration/runs/.gitkeep
+exploration/data/**
+!exploration/data/.gitkeep
+exploration/results/**
+!exploration/results/.gitkeep
+deployment/model/**
+!deployment/model/.gitkeep
+exploration/notebooks/18_research_report.ipynb
+exploration/EXECUTION_AUDIT.md
+exploration/INTEGRATED_REVIEW.md
+REVIEW_AND_VALIDATION.md
